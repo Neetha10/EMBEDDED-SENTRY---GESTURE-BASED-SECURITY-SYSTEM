@@ -1,8 +1,4 @@
-### Group Members:
 
-- Naveen Kumar Senthil Kumar (ns6503)
-- Neethu Vijay Satravada (ns6411)
-- Saketh Raman Ramesh (sr7714)
 
 ### How to Use:
 
