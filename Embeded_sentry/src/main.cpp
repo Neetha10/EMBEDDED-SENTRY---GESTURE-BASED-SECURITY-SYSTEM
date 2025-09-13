@@ -1,9 +1,4 @@
-/*
-### Group(20) Members:
-- Naveen Kumar Senthil Kumar (ns6503)
-- Neethu Vijay Satravada (ns6411)
-- Saketh Raman Ramesh (sr7714)
-*/
+
 #include "mbed.h"
 #include <vector>
 #include <array>
